@@ -1,30 +1,20 @@
-## Project Status
-
-⚠️ **This project is no longer actively maintained.** ⚠️
-
-Hey everyone, big thanks to all of you who have used and still use WireGUI.
-
-I wanted to let you know that I've moved away from using WireGuard (I don't need to use it anymore), so I won't be updating WireGUI for now.
-
-However, if anyone wants to pitch in and improve WireGUI, I'd be more than happy to check out your pull requests.
-
 <p align="center">
   <img width="300" src="https://i.imgur.com/9UGXWYE.png">
 </p>
 
 # Wire GUI
 
-Wire GUI is a cross-platform graphical user interface for [wireguard](https://www.wireguard.com/).
+Wire GUI es una interfaz gráfica de usuario multiplataforma para [wireguard](https://www.wireguard.com/).
 
-## Features
+## Características
 
-- Connect and disconnect from wireguard tunnels
-- List all your saved tunnels
-- Show date when the tunnel was last connected
-- Display current connected tunnel
+-   Conectar y desconectar túneles de wireguard
+-   Listar todos tus túneles guardados
+-   Mostrar la fecha de la última conexión del túnel
+-   Indicar el túnel conectado actualmente
 
-![Wire GUI Picture](https://i.imgur.com/wWxEyJH.png)
+![Imagen de Wire GUI](https://i.imgur.com/wWxEyJH.png)
 
-## Download
+## Descarga
 
-Check out the [releases](https://github.com/Devsfy/wiregui/releases) page
+Consulta la página de [lanzamientos](https://github.com/Devsfy/wiregui/releases)
